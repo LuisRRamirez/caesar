@@ -15,6 +15,7 @@
 int main(int argc, string argv[])
 {
 
+// trying to see something
     // argc counts how many "words" are in the input argc1 = ./caesar & the integer is argc2 
     if (argc != 2)
         {
