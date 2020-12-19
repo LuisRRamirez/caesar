@@ -1,2 +1,3 @@
 # caesar
-This is a simple C program
+Simple C program done using cs50
+
